@@ -1,0 +1,57 @@
+﻿  Digimon_Clear.cpp
+  Digimon_Stage.cpp
+  Digimon_StageHandler.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(44): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(143): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(152): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(156): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(157): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(158): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(159): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(140): warning C4101: 'len_y' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(139): warning C4101: 'len_x' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(230): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(239): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(243): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(244): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(245): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(246): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(228): warning C4101: 'len_y' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(227): warning C4101: 'len_x' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(317): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(326): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(330): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(331): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(332): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(333): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(315): warning C4101: 'len_y' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(314): warning C4101: 'len_x' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(404): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(413): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(417): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(418): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(419): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(420): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(402): warning C4101: 'len_y' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(401): warning C4101: 'len_x' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(513): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(517): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(518): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(519): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(520): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(530): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(531): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(489): warning C4101: 'len_y' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(488): warning C4101: 'len_x' :참조되지 않은 지역 변수입니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(853): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(863): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(916): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.cpp(1066): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Digimon_main.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_main.cpp(64): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  0 of 490 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Digimon_Defence.vcxproj -> D:\배태성\2018-1st\GameProgramming\Digimon_Defence\Digimon_Defence_제출본\Release\Digimon_Defence.exe

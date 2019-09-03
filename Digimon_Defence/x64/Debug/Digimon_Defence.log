@@ -1,0 +1,17 @@
+﻿  Digimon_Clear.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_clear.h(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL_image.h': No such file or directory
+  Digimon_GameOver.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stage.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Digimon_Intro.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_intro.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Digimon_main.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_main.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Digimon_Monster.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_monster.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL_image.h': No such file or directory
+  Digimon_Stage.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stage.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Digimon_StageHandler.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_stagehandler.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Digimon_Unit.cpp
+d:\배태성\2018-1st\gameprogramming\digimon_defence\digimon_defence_제출본\digimon_defence\digimon_unit.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL_image.h': No such file or directory
+  코드를 생성하고 있습니다...
